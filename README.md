@@ -1,2 +1,0 @@
-# Learn python
-python.code
